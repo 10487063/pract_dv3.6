@@ -1,0 +1,40 @@
+div.nav {
+    color: black;
+    background-color: greenyellow;
+    text-align: center;
+    
+}
+
+div.header {
+    background-color: antiquewhite;
+    text-align: center;
+    font-weight: bold;
+}
+
+div.uno {
+    background-color: orange;
+    font-weight: bold;
+}
+
+div.primero {
+    background-color: orange;
+    font-weight: bold;
+}
+
+div.segundo {
+    background-color: orange;
+}
+
+div.tercero {
+    background-color: orange;
+}
+
+div.azul {
+    background-color: blue;
+    text-align: center;
+}
+
+span.sueño {
+    background-color: yellow;
+    color: blueviolet;
+}
